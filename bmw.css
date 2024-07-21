@@ -1,0 +1,14 @@
+.w3-top {
+  background: transparent;
+  position: fixed;
+  top: 0;
+  color: transparent;
+  
+}
+
+.social-links a {
+  justify-content: space-between;
+  align-items: center;
+  padding:  10px 10px;
+  
+}
